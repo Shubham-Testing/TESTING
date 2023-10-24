@@ -1,3 +1,3 @@
-import TEST12
-TEST12.exit()
+import HKR
+HKR.exit()
 
